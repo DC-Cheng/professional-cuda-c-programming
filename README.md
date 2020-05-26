@@ -3,8 +3,6 @@ http://www.hds.bme.hu/~fhegedus/C++/Professional%20CUDA%20C%20Programming.pdf
 
 
 # Professional CUDA C Programming
-===============================
-
 Included here are the code files for any samples used in the chapters as
 illustrative examples.
 
